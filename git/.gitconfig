@@ -10,5 +10,7 @@
 	helper = store
 [alias]
 	co = checkout
+	br = branch
+	st = status
 [commit]
 	gpgsign = true
